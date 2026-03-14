@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeet Mondal</h1>
+<h1 align="center">Hi 👋, Myself JM</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Learner | Building Premium Projects</h3>
 
 <p align="center">
