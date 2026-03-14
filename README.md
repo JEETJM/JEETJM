@@ -50,11 +50,6 @@
 </tr>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JEETJM/JEETJM/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JEETJM/JEETJM/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JEETJM/JEETJM/output/pacman-contribution-graph.svg">
-</picture>
 
 
 
@@ -103,15 +98,11 @@
 
 </p>
 
+### 🎮 Pac-Man Contribution Maze
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JEETJM/JEETJM/output/github-contribution-grid-snake-dark.svg" alt="Pacman Contribution Maze" />
+</p
 
-
-
-
-
-
- <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260" />
-    </td>
 
 ---
 
@@ -150,12 +141,13 @@
 ---
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JEETJM/JEETJM/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JEETJM/JEETJM/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JEETJM/JEETJM/output/pacman-contribution-graph.svg">
+</picture>
 
-
-### 🎮 Pac-Man Contribution Maze
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JEETJM/JEETJM/output/github-contribution-grid-snake-dark.svg" alt="Pacman Contribution Maze" />
-</p>
+>
 
 
 
