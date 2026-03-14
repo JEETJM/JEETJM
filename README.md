@@ -28,47 +28,24 @@
 - 📫 Email: **jm382118@gmail.com**
 - 📍 Location: **Kandi, West Bengal, India**
 
-<br>
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
 
 <br><br>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
 
 </td>
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/PegtYx2pANK76lGLgR/giphy.gif" width="230"/>
+<img src="https://media.giphy.com/media/PegtYx2pANK76lGLgR/giphy.gif" width="100"/>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100"/>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220"/>
-
-<br><br>
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220"/>
-
-<br><br>
-
-<img src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif" width="230"/>
-
-<br><br>
-
-<img src="https://media.giphy.com/media/IMOTcqOtaEkXiBonLU/giphy.gif" width="230"/>
-
-<br><br>
-
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="230"/>
-
-<br><br>
-
-<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="230"/>
+<img src="https://media.giphy.com/media/IMOTcqOtaEkXiBonLU/giphy.gif" width="100"/>
 
 </td>
 
