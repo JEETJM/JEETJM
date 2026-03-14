@@ -35,15 +35,15 @@
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/PegtYx2pANK76lGLgR/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/PegtYx2pANK76lGLgR/giphy.gif" width="280"/>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280"/>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/IMOTcqOtaEkXiBonLU/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/IMOTcqOtaEkXiBonLU/giphy.gif" width="280"/>
 
 </td>
 
