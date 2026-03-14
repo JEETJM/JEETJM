@@ -16,7 +16,10 @@
 <tr>
 
 <td width="60%" valign="top">
+<td width="40%" align="center">
 
+
+</td>
 ## 💛 About Me
 
 - 💻 My name is **Jeet Mondal**
@@ -34,11 +37,21 @@
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="230"/>
+<img src="https://media.giphy.com/media/PegtYx2pANK76lGLgR/giphy.gif" width="230"/>
+
+<br><br>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220"/>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="230"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220"/>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220"/>
+
+
+<img src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif" width="230"/>
 
 <br><br>
 
@@ -50,6 +63,7 @@
 </table>
 
 
+sundor kore sajiye dao kalo biral ta thakuk sada biral ta soriye dao   agun jolche ota soriye dao   hackerman ta soriye dao
 # 🌐 Connect With Me
 
 <p align="left">
