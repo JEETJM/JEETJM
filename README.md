@@ -12,14 +12,13 @@
 </p>
 
 ---
+
+
 <table>
 <tr>
 
 <td width="60%" valign="top">
-<td width="40%" align="center">
 
-
-</td>
 ## 💛 About Me
 
 - 💻 My name is **Jeet Mondal**
@@ -33,6 +32,10 @@
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
 
+<br><br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
 </td>
 
 <td width="40%" align="center">
@@ -40,6 +43,7 @@
 <img src="https://media.giphy.com/media/PegtYx2pANK76lGLgR/giphy.gif" width="230"/>
 
 <br><br>
+
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220"/>
 
 <br><br>
@@ -50,6 +54,7 @@
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220"/>
 
+<br><br>
 
 <img src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif" width="230"/>
 
@@ -57,13 +62,22 @@
 
 <img src="https://media.giphy.com/media/IMOTcqOtaEkXiBonLU/giphy.gif" width="230"/>
 
+<br><br>
+
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="230"/>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="230"/>
+
 </td>
 
 </tr>
 </table>
 
 
-sundor kore sajiye dao kalo biral ta thakuk sada biral ta soriye dao   agun jolche ota soriye dao   hackerman ta soriye dao
+
+
 # 🌐 Connect With Me
 
 <p align="left">
