@@ -12,10 +12,10 @@
 </p>
 
 ---
-      
 <table>
 <tr>
-<td width="65%" valign="top">
+
+<td width="60%" valign="top">
 
 ## 💛 About Me
 
@@ -24,29 +24,32 @@
 - 🚀 I love building **modern and scalable web applications**
 - 🎯 My goal is to become a **Professional Full Stack Developer**
 - 📫 Email: **jm382118@gmail.com**
-- 📍 Location: ** Kandi West Bengal, India**
+- 📍 Location: **Kandi, West Bengal, India**
+
+<br>
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
 
 </td>
 
-<td width="35%" align="center">
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/PegtYx2pANK76lGLgR/giphy.gif" width="220"/>
 
 <br><br>
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="260"/><br><br>
-<img src="https://media.giphy.com/media/PegtYx2pANK76lGLgR/giphy.gif" width="260"/><br><br>
-<img src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif" width="260"/>
 
-
+<img src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif" width="220"/>
 
 <br><br>
+
 <img src="https://media.giphy.com/media/IMOTcqOtaEkXiBonLU/giphy.gif" width="220"/>
 
 <br><br>
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220"/>
 
-<br><br>
-
 </td>
+
 </tr>
 </table>
 
