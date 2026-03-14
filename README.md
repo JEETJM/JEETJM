@@ -30,22 +30,22 @@
 
 
 <br><br>
-<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100"/>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 
 </td>
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/PegtYx2pANK76lGLgR/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/PegtYx2pANK76lGLgR/giphy.gif" width="200"/>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/IMOTcqOtaEkXiBonLU/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/IMOTcqOtaEkXiBonLU/giphy.gif" width="200"/>
 
 </td>
 
