@@ -1,7 +1,10 @@
-name: Generate pacman animation
+name: Generate Pacman
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 */12 * * *"
 
@@ -11,15 +14,16 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: Generate pacman graph
+      - name: Generate pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: JEETJM
 
-      - name: Deploy pacman graph to output-pacman branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push pacman files to output-pacman branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output-pacman
           build_dir: dist
