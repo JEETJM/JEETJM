@@ -34,19 +34,15 @@
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/PegtYx2pANK76lGLgR/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/PegtYx2pANK76lGLgR/giphy.gif" width="230"/>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif" width="230"/>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/IMOTcqOtaEkXiBonLU/giphy.gif" width="220"/>
-
-<br><br>
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/IMOTcqOtaEkXiBonLU/giphy.gif" width="230"/>
 
 </td>
 
