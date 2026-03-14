@@ -13,6 +13,9 @@
 
 ---
       
+<table>
+<tr>
+<td width="65%" valign="top">
 
 ## 💛 About Me
 
@@ -21,8 +24,21 @@
 - 🚀 I love building **modern and scalable web applications**
 - 🎯 My goal is to become a **Professional Full Stack Developer**
 - 📫 Email: **jm382118@gmail.com**
-- 📍 Location: ** Kandi, West Bengal, India**
----
+- 📍 Location: **West Bengal, India**
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/IMOTcqOtaEkXiBonLU/giphy.gif" width="260"/>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/PegtYx2pANK76lGLgR/giphy.gif" width="260"/>
+
+</td>
+</tr>
+</table>
 
 # 🌐 Connect With Me
 
