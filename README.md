@@ -27,10 +27,7 @@
 - 🎯 My goal is to become a **Professional Full Stack Developer**
 - 📫 Email: **jm382118@gmail.com**
 - 📍 Location: **Kandi, West Bengal, India**
-
-
-<br><br>
-<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200"/>
+- 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 
 </td>
