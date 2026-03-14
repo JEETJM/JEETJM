@@ -1,9 +1,21 @@
 <h1 align="center">Hi 👋, I'm Jeet Mondal</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Learner | Building Premium Projects</h3>
 
-<table>
-<tr>
-<td width="70%" valign="top">
+<h1 align="center">Hi 👋, I'm Jeet Mondal</h1>
+<h3 align="center">Full Stack Web Developer | MERN Stack Learner | Building Premium Projects</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer;MERN+Stack+Developer;Building+Modern+Projects;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JEETJM&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/JEETJM?label=Followers&style=flat&color=blue" />
+  <img src="https://img.shields.io/github/stars/JEETJM?label=Stars&style=flat&color=yellow" />
+</p>
+
+---
+      
 
 ## 💛 About Me
 
@@ -12,18 +24,7 @@
 - 🚀 I love building **modern and scalable web applications**
 - 🎯 My goal is to become a **Professional Full Stack Developer**
 - 📫 Email: **jm382118@gmail.com**
-- 📍 Location: **West Bengal, India**
-
-</td>
-
-<td width="30%" align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
-
-</td>
-</tr>
-</table>
-
+- 📍 Location: ** Kandi, West Bengal, India**
 ---
 
 # 🌐 Connect With Me
