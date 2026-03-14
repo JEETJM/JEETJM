@@ -12,6 +12,11 @@
 </p>
 
 ---
+      
+
+
+
+
 
 ## 💛 About Me
 
@@ -56,6 +61,9 @@
 
 </p>
 </p>
+ <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260" />
+    </td>
 
 ---
 
@@ -121,12 +129,10 @@
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/JEETJM/JEETJM/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/JEETJM/JEETJM/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
