@@ -102,12 +102,10 @@
 
 
 
-## 👾 Pac-Man Contribution Graph
-
+### 🎮 Pac-Man Contribution Maze
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JEETJM/JEETJM/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" />
+  <img src="https://raw.githubusercontent.com/JEETJM/JEETJM/output/github-contribution-grid-snake-dark.svg" alt="Pacman Contribution Maze" />
 </p>
-
 
 
 
