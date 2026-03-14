@@ -164,10 +164,19 @@
 
 
 ---
-## 🏆 GitHub Achievements
+
+## 🏅 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JEETJM&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" />
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="120">
+
 </p>
 
 
