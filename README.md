@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeet Mondal</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Learner | Building Premium Projects</h3>
 
-<h1 align="center">Hi 👋, I'm Jeet Mondal</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack Learner | Building Premium Projects</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer;MERN+Stack+Developer;Building+Modern+Projects;Always+Learning+New+Things" />
 </p>
