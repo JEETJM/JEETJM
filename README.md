@@ -12,9 +12,6 @@
   <img src="https://img.shields.io/github/stars/JEETJM?label=Stars&style=flat&color=yellow" />
 </p>
 
----
-
-
 
 <table>
 <tr>
@@ -109,8 +106,6 @@
 
 
 
----
-
 # 🛠 Tech Stack & Tools
 
 <p align="left">
@@ -143,8 +138,6 @@
 
 </p>
 
----
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JEETJM/JEETJM/output-pacman/pacman-contribution-graph-dark.svg">
@@ -171,7 +164,6 @@
 
 </p>
 
----
 
 # 📈 Contribution Graph
 
@@ -181,10 +173,7 @@
 
 </p>
 
----
 
-
----
 
 ## 🏅 GitHub Achievements
 
@@ -202,7 +191,6 @@
 
 
 
----
 
 # ✨ Quote
 
