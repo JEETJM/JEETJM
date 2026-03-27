@@ -152,18 +152,17 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JEETJM&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JEETJM&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=JEETJM&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=JEETJM&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEETJM&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEETJM&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 
 </p>
-
 
 # 📈 Contribution Graph
 
