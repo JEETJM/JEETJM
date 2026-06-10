@@ -153,13 +153,10 @@
   <img src="https://streak-stats.demolab.com?user=JEETJM&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JEETJM&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JEETJM&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&hide_border=true" />
 </p>
 
 
