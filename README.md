@@ -74,7 +74,7 @@
 <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://x.com/jm382118">
+<a href="https://x.com/JEETJM04">
 <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
