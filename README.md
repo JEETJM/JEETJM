@@ -1,10 +1,5 @@
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JEETJM/JEETJM/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JEETJM/JEETJM/main/light.svg">
-  <img alt="Jeet Mondal" src="https://raw.githubusercontent.com/JEETJM/JEETJM/main/light.svg">
-</picture>
 
 <!-- ===== GITHUB STATS ===== -->
 
