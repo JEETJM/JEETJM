@@ -1,0 +1,115 @@
+[
+  {
+    "name": "ExamPulse",
+    "repo": "JEETJM/ExamPulse",
+    "logo": "exampulse.png",
+    "description": "A full-stack online examination platform with authentication, exam creation, question management, and result handling.",
+    "tags": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "MERN"
+    ]
+  },
+  {
+    "name": "Online Exam System",
+    "repo": "JEETJM/online-exam-system",
+    "logo": "online-exam-system.png",
+    "description": "An online exam system where students can take tests, submit answers, and view results.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "PHP",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "Zenvyra",
+    "repo": "JEETJM/zenvyra",
+    "logo": "zenvyra.png",
+    "description": "A property listing web application with authentication, reviews, maps, and cloud image upload.",
+    "tags": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Cloudinary"
+    ]
+  },
+  {
+    "name": "TaskVerse",
+    "repo": "JEETJM/taskverse-todo",
+    "logo": "taskVerse.png",
+    "description": "A professional MERN task management application with CRUD operations, priority tracking, filters, due dates, and MongoDB Atlas integration.",
+    "tags": [
+      "React",
+      "Express",
+      "MongoDB",
+      "MERN"
+    ]
+  },
+  {
+    "name": "VibeTalk",
+    "repo": "JEETJM/vibetalk-mern-chat",
+    "logo": "vibetalk.png",
+    "description": "A real-time MERN chat application with authentication, messaging, voice, image sharing, and modern WhatsApp-style UI.",
+    "tags": [
+      "React",
+      "Node.js",
+      "Socket.io",
+      "MongoDB",
+      "MERN"
+    ]
+  },
+  {
+    "name": "CivicFix AI",
+    "repo": "JEETJM/civicfix-ai",
+    "logo": "civicfix-ai.png",
+    "description": "An AI-powered civic issue reporting and resolution tracking platform with complaint classification, priority scoring, dashboards, maps, and hotspot monitoring.",
+    "tags": [
+      "MERN",
+      "AI",
+      "Gemma",
+      "Machine Learning",
+      "Maps"
+    ]
+  },
+  {
+    "name": "SchemeSathi AI",
+    "repo": "JEETJM/SchemeSathi-AI",
+    "logo": "schemesathi.png",
+    "description": "An AI-powered platform that helps users discover government schemes using intelligent recommendations and smart assistance.",
+    "tags": [
+      "MERN",
+      "AI",
+      "Gemini",
+      "MongoDB",
+      "Cloudinary"
+    ]
+  },
+  {
+    "name": "TradeNest",
+    "repo": "JEETJM/TradeNest",
+    "logo": "tradenest.png",
+    "description": "A Zerodha-inspired trading and investment platform UI with portfolio dashboard, stocks, pricing, and modern fintech experience.",
+    "tags": [
+      "React",
+      "JavaScript",
+      "Bootstrap",
+      "CSS"
+    ]
+  },
+  {
+    "name": "Portfolio Website",
+    "repo": "JEETJM/Jeet-portfolio",
+    "logo": "portfolio.png",
+    "description": "A modern developer portfolio website showcasing projects, skills, achievements, and technical journey.",
+    "tags": [
+      "React",
+      "Three.js",
+      "JavaScript",
+      "Vercel"
+    ]
+  }
+]
