@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="560" viewBox="0 0 390 560">
+
+<defs>
+
+<linearGradient id="asciiGradient">
+
+<stop offset="0%" stop-color="#7C3AED">
+<animate attributeName="stop-color"
+values="#7C3AED;#22D3EE;#10B981;#7C3AED"
+dur="8s"
+repeatCount="indefinite"/>
+</stop>
+
+<stop offset="100%" stop-color="#22D3EE"/>
+
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="2"/>
+</filter>
+
+</defs>
+
+<text x="10" y="20" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">###########################################%###########%#%########%############################</text>
+<text x="10" y="29" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">###############%###############################################################################</text>
+<text x="10" y="38" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">###############%#########################################%#%###################################</text>
+<text x="10" y="47" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">###############################################################################################</text>
+<text x="10" y="56" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">###############################################################################################</text>
+<text x="10" y="65" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">#########################################%####%%#####%%%##%%%%%################%#############%#</text>
+<text x="10" y="74" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">#############%#############################%%%%##%%%%%%%%%%%%%%%%%#####%##%%##################%</text>
+<text x="10" y="83" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">#############%%#########################%%%%%%##%%%%%%%%%%%%%%%%%%%%########%########%#########</text>
+<text x="10" y="92" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">############%%%#####################%%%%%%%%%%%%%@@@@@@@@@@@@@%%%%%%%##############%%%%########</text>
+<text x="10" y="101" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">####%%######%##%%###################%%%%%%%%%%%%%#**###%%%%%%%%@@@%%%%#######%##%#%%%%%####%%%#</text>
+<text x="10" y="110" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">#*##########%%%%##################%%%%%%%%%%%%##+==----======++*#@%%%%##########%%%%%%%##%%%%%%</text>
+<text x="10" y="119" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">###########%%%%################%%%%%%%%%%%@%*+==--------------==+#%%%%%###########%%%%%%%%%#%#%</text>
+<text x="10" y="128" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">###############################%%%%%%%%%%%#+=-------==============#%%%%#########%###%%%%%%%%%%%</text>
+<text x="10" y="137" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">#########%%#####################%%%%%%%%%#+=--------==============+%%%#########%%%%#%%%%%%%%#%%</text>
+<text x="10" y="146" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">################################%%%%%%%%%*==---------------------==+%%#######%%%%%%#%%#%%%#%%%%</text>
+<text x="10" y="155" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">###########*##########*#########%%%%%%%#+==-----======--------======#%#################%%%#%%%%</text>
+<text x="10" y="164" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">######################**#########%%%%%#+==--=+++**##%#*++==+*#%%##*+######*###########%%%%%####</text>
+<text x="10" y="173" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">#################################%%%%%*==-==+++***#####*+++*#%#******#################%%%%%#%##</text>
+<text x="10" y="182" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">#################################+*#%%*---=+**#*%%#*##*+=--*##%%*##*+##################%###%%##</text>
+<text x="10" y="191" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">################################*+=+*%+------==++***+===--:=++****+==*###############%%#%%%%###</text>
+<text x="10" y="200" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">##############*#################*+-+*#+----::----==-------::=--===---*#################%%%%%###</text>
+<text x="10" y="209" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">################*###############*-=*+**==-----------------::---------+###########*#############</text>
+<text x="10" y="218" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">#################################====+#===-----------=--=====+==----=*########################%</text>
+<text x="10" y="227" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">#################################*=--=#*+====-----==--+**#**#*======+##########################</text>
+<text x="10" y="236" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">###################################+=+##*+=========---=++++*++===+++*##########################</text>
+<text x="10" y="245" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">########################*############*##**+++=====+**+++*******##++*####*#####################%</text>
+<text x="10" y="254" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">######%##############################**##***++++=+*****+++++++***+*######################%%%##%</text>
+<text x="10" y="263" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">#%%##################################*=#%#***++++++===++*****+==++############################%</text>
+<text x="10" y="272" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">#####################################*==*%%#**++++========++====+#%############################</text>
+<text x="10" y="281" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">###################################+--===+*%%%#***++===---====+*%%##############%##############</text>
+<text x="10" y="290" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">##################################*:.:::-=++*#%%%%##********##%%%#############%#%##############</text>
+<text x="10" y="299" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">##################################=.::::::-=+**##%%%%%%%%%%%%%%##############################%%</text>
+<text x="10" y="308" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">%###############################*=::::::::::-=+***####%%%%%##################################%%</text>
+<text x="10" y="317" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">%%############################*-:.::::::::::::-=+**********+*##############################%%%%</text>
+<text x="10" y="326" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">%%##########################+-:.:::::-:-::::::---==*******+++**##############################%%</text>
+<text x="10" y="335" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">#%########################+:.::::::::::::--:::---=--=+***++++=+*##############################%</text>
+<text x="10" y="344" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">#######################*+:::::::::::::::::-------===---=+++++====*#############################</text>
+<text x="10" y="353" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">####################%#+:.:::::::::::::::-:::--=--==------++++==---+%###########################</text>
+<text x="10" y="362" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">####################+-:::::::::::::::::::-::::-----==----++===--::=########################%%##</text>
+<text x="10" y="371" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">#################%*-::::::::::::::::::::::--:::------====++=----:+######################%######</text>
+<text x="10" y="380" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">#%%%#############+::::::::::::::::::::::::::-:::::----====+=----:-*#########################%%%</text>
+<text x="10" y="389" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">##############%#-:::::::::::::::::::::::::-::-::::::--:-==+----::::######################%%%%%%</text>
+<text x="10" y="398" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">###%%##%#####%*::::::::::::::::::::--::--::-:::::::::---:-=---:::::=#####%#######%%######%%%%%%</text>
+<text x="10" y="407" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">##%%####%####=:::::---::::::::::::::---:--::-::::::::::--:----::::-:*####%################%%%%%</text>
+<text x="10" y="416" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">########%###=::::-=--::::::::::::::::------:--::::::::::-::---:::::--##########%%%%%%%%%%#%%###</text>
+<text x="10" y="425" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">##%%%#%%#%%=:-:-==-:::::::::::::::::------=::--:::::::::--:--:::::::-*#########%%%%%%%%%%%#####</text>
+<text x="10" y="434" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">###%######+----==:::::::::::::::::-:-=:---=-:-:::::::::::-:-=::::::::+#########%%%%%%%%%######%</text>
+<text x="10" y="443" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">######%%%#----=-::::::::::::::::::--:-=:--==:--:::::::::::--=::::::::-#########%%%%%%%%%##%%##%</text>
+<text x="10" y="452" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">#####%%###---=-::::::::::::::::-------==:-==:-:::::::::::::-=:::::::::+########%%%%%%%%%####%##</text>
+<text x="10" y="461" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">#########*----::::::::-::::::::-------==--==:-:::--:::::::::=-:--:::::=%%%%%%%##%%%%%%##%%#####</text>
+<text x="10" y="470" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">####%####+:-=-::::::::-::::::----------==-+=--::---:::::::::-=---:::::-%%%%%%%%%%%%%%%%%#######</text>
+<text x="10" y="479" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">%###%%%%%+:-=::::::::--:::::-----------===+---::----:::::::::--:-::::::=#%%%%%%%%%%%%%%%%%#####</text>
+<text x="10" y="488" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">%%%#%%%%%+:-=:::::::---:::::----=------==++--::------:::::::::-::-:-::.:#%%%%%%%%%%%%%%%%%%%%#%</text>
+<text x="10" y="497" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">%%%#%%%%%=:--:::::::-::::::------------==+---:--------::::::::-::---::::#%%%%%%%%%%%%%%%%%%%#%%</text>
+<text x="10" y="506" font-family="JetBrains Mono, monospace" font-size="8" fill="url(#asciiGradient)" filter="url(#glow)">#%%%#%%%%=:==::::::---:::::-----------=+=+------------:::::::---::--::::#%%%%%%%%%%%%%%%%%%#%%%</text>
+</svg>
