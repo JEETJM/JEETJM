@@ -1,8 +1,4 @@
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/JEETJM/JEETJM/main/assets/banner.png"/>
-</p>
-
 <h1 align="center">Hi 👋, Myself JM</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Learner | Building Premium Projects</h3>
 
