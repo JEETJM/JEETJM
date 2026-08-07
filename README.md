@@ -25,7 +25,7 @@
 - 🚀 I love building **modern and scalable web applications**
 - 🎯 My goal is to become a **Professional Full Stack Developer**
 - 📫 Email: **jm382118@gmail.com**
-- 📍 Location: **Kandi, West Bengal, India**
+- 📍 Location: **Kolkata, West Bengal, India**
 - 
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width ="280"/>
