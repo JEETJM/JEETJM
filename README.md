@@ -188,6 +188,36 @@
 </p> -->
 
 
+
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=JEETJM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="180"
+  />
+
+  <!-- Most Used Languages -->
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JEETJM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img
+    src="https://streak-stats.demolab.com?user=JEETJM&theme=tokyonight&hide_border=true&mode=weekly"
+    height="180"
+  />
+</p>
+
+
+
+
+
 ## 📈 Contribution Graph
 
 <p align="center">
