@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Myself ★Ꭻ𝙴𝙴𝚃 ᴍᴏɴᴅᴀʟ </h1>
+<h1 align="center">Hi 👋, Myself  Ꭻ𝙴𝙴𝚃 ᴍᴏɴᴅᴀʟ </h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Learner | Building Premium Projects</h3>
 
 <p align="center">
