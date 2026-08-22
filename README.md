@@ -172,9 +172,9 @@
 
 
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=JEETJM&theme=tokyonight&hide_border=true" height="170"/>
-</p> -->
+</p> 
 
 # 📊 GitHub Stats
 
@@ -183,9 +183,9 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JEETJM&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats-fast.vercel.app/?user=JEETJM&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+</p> -->
 
 
 ## 📈 Contribution Graph
