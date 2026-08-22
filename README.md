@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Myself JM</h1>
+<h1 align="center">Hi 👋, Myself ★Ꭻ𝙴𝙴𝚃 ᴍᴏɴᴅᴀʟ </h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Learner | Building Premium Projects</h3>
 
 <p align="center">
@@ -179,14 +179,13 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JEETJM&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEETJM&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=JEETJM&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JEETJM&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JEETJM&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats-fast.vercel.app/?user=JEETJM&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-
 
 
 
