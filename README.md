@@ -170,7 +170,7 @@
 
 
 
-# 📊 GitHub Stats
+
 
 <!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=JEETJM&theme=tokyonight&hide_border=true" height="170"/>
@@ -186,8 +186,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats-fast.vercel.app/?user=JEETJM&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-
-
 
 
 ## 📈 Contribution Graph
