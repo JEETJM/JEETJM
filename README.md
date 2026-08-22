@@ -106,7 +106,6 @@
 
 
 
-# 🛠 Tech Stack & Tools
 # 🛠️ Tech Stack & Tools
 
 <p align="left">
