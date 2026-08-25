@@ -195,11 +195,9 @@
 
 
 
-## 📈 Contribution Graph
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JEETJM&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&hide_border=true" />
-</p>
+</p> -->
 
 
 
