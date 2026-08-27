@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <!-- <img src="https://komarev.com/ghpvc/?username=JEETJM&label=Profile%20Views&color=0e75b6&style=flat" /> -->
-  <!-- <img src="https://img.shields.io/github/followers/JEETJM?label=Followers&style=flat&color=blue" /> -->
+  <img src="https://komarev.com/ghpvc/?username=JEETJM&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/JEETJM?label=Followers&style=flat&color=blue" />
   <img src="https://img.shields.io/github/stars/JEETJM?label=Stars&style=flat&color=yellow" />
 </p>
 
@@ -29,14 +29,14 @@
 - 
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width ="280"/>
-<img src="https://media.giphy.com/media/IMOTcqOtaEkXiBonLU/giphy.gif" width="280"/>
+<!-- <img src="https://media.giphy.com/media/IMOTcqOtaEkXiBonLU/giphy.gif" width="280"/> -->
 
 
 </td>
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/PegtYx2pANK76lGLgR/giphy.gif" width="280"/>
+<!-- <img src="https://media.giphy.com/media/PegtYx2pANK76lGLgR/giphy.gif" width="280"/> -->
 
 <br><br>
 
