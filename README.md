@@ -36,7 +36,7 @@
 
 <td width="40%" align="center">
 
-<!-- <img src="https://media.giphy.com/media/PegtYx2pANK76lGLgR/giphy.gif" width="280"/> -->
+ <img src="https://media.giphy.com/media/PegtYx2pANK76lGLgR/giphy.gif" width="280"/> 
 
 <br><br>
 
