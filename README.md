@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JEETJM&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/JEETJM?label=Followers&style=flat&color=blue" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=JEETJM&label=Profile%20Views&color=0e75b6&style=flat" /> -->
+  <!-- <img src="https://img.shields.io/github/followers/JEETJM?label=Followers&style=flat&color=blue" /> -->
   <img src="https://img.shields.io/github/stars/JEETJM?label=Stars&style=flat&color=yellow" />
 </p>
 
