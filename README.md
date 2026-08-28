@@ -145,12 +145,15 @@
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 <p/>
 
+<b>
 <picture>
+  <b>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JEETJM/JEETJM/output-pacman/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JEETJM/JEETJM/output-pacman/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JEETJM/JEETJM/output-pacman/pacman-contribution-graph.svg">
-</picture>
-
+<b/>
+  </picture>
+<b/>
 
 
 
