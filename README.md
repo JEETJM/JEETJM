@@ -139,8 +139,6 @@
 <img src="https://skillicons.dev/icons?i=npm" />
 <img src="https://skillicons.dev/icons?i=idea" />
 <img src="https://skillicons.dev/icons?i=postman" />
-<img src="https://skillicons.dev/icons?i=cloudinary" />
-<img src="https://skillicons.dev/icons?i=render" />
 <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white"/>
@@ -168,25 +166,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JEETJM&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
    <img src="https://streak-stats.demolab.com?user=JEETJM&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats-fast.vercel.app/?user=JEETJM&theme=tokyonight&hide_border=true" height="180"/>
-</p> -->
-
-
-
-
-
-
-
-
-
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JEETJM&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&hide_border=true" />
-</p> -->
-
-
-
 
 
 ## 🏅 GitHub Achievements
