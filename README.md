@@ -127,85 +127,25 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=firebase" />
   <img src="https://skillicons.dev/icons?i=gcp" />
-  <!-- <img src="https://skillicons.dev/icons?i=mapbox" /> -->
   <img src="https://skillicons.dev/icons?i=vercel" />
   <img src="https://skillicons.dev/icons?i=netlify" />
-  <!-- <img src="https://skillicons.dev/icons?i=render" /> -->
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=vscode" />
-  <!-- <img src="https://skillicons.dev/icons?i=canva" /> -->
-  <!-- <img src="https://skillicons.dev/icons?i=mapbox" /> -->
-
-<!-- <img src="https://skillicons.dev/icons?i=render" /> -->
-
 <img src="https://skillicons.dev/icons?i=materialui" />
-
 <img src="https://skillicons.dev/icons?i=php" />
-
 <img src="https://skillicons.dev/icons?i=aws" />
-
 <img src="https://skillicons.dev/icons?i=docker" />
-
 <img src="https://skillicons.dev/icons?i=npm" />
-
 <img src="https://skillicons.dev/icons?i=idea" />
-
 <img src="https://skillicons.dev/icons?i=postman" />
 <img src="https://skillicons.dev/icons?i=cloudinary" />
 <img src="https://skillicons.dev/icons?i=render" />
-</p>
-
-
-<!-- <p> -->
-
-<!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> -->
-<!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> -->
-<!-- <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> -->
-
-<!-- Backend -->
-<!-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/> 
-<!-- <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> -->
-
-<!-- Programming Languages -->
-<!-- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> -->
-
-<!-- Databases -->
-<!-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> -->
-
-<!-- Cloud & AI -->
-<!-- <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
-
-<!-- Maps -->
 <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white"/>
-
-<!-- Deployment -->
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/> -->
-
-<!-- Tools -->
-<!-- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-
+<p/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JEETJM/JEETJM/output-pacman/pacman-contribution-graph-dark.svg">
