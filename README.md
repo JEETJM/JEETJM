@@ -100,6 +100,7 @@
 
 <img src="https://skillicons.dev/icons?i=postman" />
 <img src="https://skillicons.dev/icons?i=cloudinary" />
+<img src="https://skillicons.dev/icons?i=render" />
 </p>
 
 
