@@ -99,6 +99,7 @@
 <img src="https://skillicons.dev/icons?i=idea" />
 
 <img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://skillicons.dev/icons?i=cloudinary" />
 </p>
 
 
