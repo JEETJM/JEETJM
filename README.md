@@ -81,10 +81,10 @@
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=canva" />
-  <img src="https://skillicons.dev/icons?i=mapbox" />
+  <!-- <img src="https://skillicons.dev/icons?i=canva" /> -->
+  <!-- <img src="https://skillicons.dev/icons?i=mapbox" /> -->
 
-<img src="https://skillicons.dev/icons?i=render" />
+<!-- <img src="https://skillicons.dev/icons?i=render" /> -->
 
 <img src="https://skillicons.dev/icons?i=materialui" />
 
