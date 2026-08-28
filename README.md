@@ -82,6 +82,23 @@
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=canva" />
+  <img src="https://skillicons.dev/icons?i=mapbox" />
+
+<img src="https://skillicons.dev/icons?i=render" />
+
+<img src="https://skillicons.dev/icons?i=materialui" />
+
+<img src="https://skillicons.dev/icons?i=php" />
+
+<img src="https://skillicons.dev/icons?i=aws" />
+
+<img src="https://skillicons.dev/icons?i=docker" />
+
+<img src="https://skillicons.dev/icons?i=npm" />
+
+<img src="https://skillicons.dev/icons?i=idea" />
+
+<img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
 
