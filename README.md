@@ -109,42 +109,24 @@
 
 
 
-
 <div align="center">
-
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/vite-icon.svg" alt="Vite" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" alt="Bootstrap" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="Tailwind CSS" width="50" height="50" />
-
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express.js" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="50" height="50" />
-
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="50" height="50" />
-
-  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="Firebase" width="50" height="50" />
-
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/gcp-icon.svg" alt="Google Cloud" width="50" height="50" />
-
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-
-  <img src="https://techstack-generator.vercel.app/vercel-icon.svg" alt="Vercel" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/netlify-icon.svg" alt="Netlify" width="50" height="50" />
-
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="VS Code" width="50" height="50" />
-
+ <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
+<div align="center">
+ <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="50" height="50" /> <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+<!-- 55 -->
 
 
 
