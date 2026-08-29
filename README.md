@@ -107,7 +107,7 @@
 
 </p>
 
-
+<br>
 
 
 
@@ -161,7 +161,7 @@
   <!-- <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>  -->
 
 <p/>
-
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JEETJM/JEETJM/output-pacman/pacman-contribution-graph-dark.svg">
